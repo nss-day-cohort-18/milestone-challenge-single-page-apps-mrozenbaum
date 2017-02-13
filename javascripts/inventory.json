@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2014",
+      "price": "10000",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 20000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2012",
+      "price": "8000",
+      "description": "This is an immaculate 2012 Nissan Rogue with only 20000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Toyota",
+      "model": "Tocoma",
+      "year": "2010",
+      "price": "15000",
+      "description": "This is an immaculate 2008 Toyota Tocoma with only 20000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Acura",
+      "model": "TL",
+      "year": "2012",
+      "price": "20000",
+      "description": "This is an immaculate 2012 Acura TL with only 20000 miles on it. Leather seats, power everything."
+    },
+    {
+      "make": "Lexus",
+      "model": "IS250",
+      "year": "2015",
+      "price": "18000",
+      "description": "This is an immaculate 2015 Lexus 250S  with only 20000 miles on it. Leather seats, power everything."
+    }
+  ]
+}

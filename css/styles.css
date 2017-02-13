@@ -1,0 +1,29 @@
+
+/* centering the nav */
+.navbar .navbar-default {
+  text-align: center;
+}
+/* Styles for car cards */
+.col-md-3 {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 5px;
+  float: left;
+  width: 30%;
+  height: 100%;
+}
+/* border width changes and background color when car card is clicked */
+.bordered {
+  border-width: 4px;
+  background-color: lightgrey;
+}
+/* car image styling */
+.carImg {
+  height: 80%;
+  width: 100%;
+}
+
+
+
+
+
