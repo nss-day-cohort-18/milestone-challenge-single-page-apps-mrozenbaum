@@ -5,7 +5,7 @@
 }
 /* Styles for car cards */
 .col-md-3 {
-  border: 2px solid black;
+  border: 1px solid black;
   padding: 5px;
   margin: 5px;
   float: left;
@@ -14,7 +14,7 @@
 }
 /* border width changes and background color when car card is clicked */
 .bordered {
-  border-width: 4px;
+  border-width: 2px;
   background-color: lightgrey;
 }
 /* car image styling */
